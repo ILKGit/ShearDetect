@@ -1,0 +1,15 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: ShearDetect
+message: 'If you use this software, please cite it as below.'
+type: software
+authors:
+  - orcid: 'https://orcid.org/0000-0002-6817-1020'
+    given-names: Christian
+    family-names: Düreth
+    email: christian.duereth@tu-dresden.de
+    affiliation: >-
+      TU Dresden - Institute for Lightweight
+      Engineering and Polymer Technology
