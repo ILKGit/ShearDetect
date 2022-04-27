@@ -1,2 +1,15 @@
 
 .DS_Store
+..gitignore.~2066aad4
+.CITATION.cff.~2d052680
+.LICENSE.~4c1edeef
+.README.md.~24aad3bc
+.train_model.py.~2114fe2b
+utilities/.coco_eval.py.~3b5243ed
+utilities/.coco_utils.py.~141b59bc
+utilities/.engine.py.~19a95f4e
+utilities/.group_by_aspect_ratio.py.~57e4d541
+utilities/.presets.py.~583e537
+utilities/.train.py.~dc371e0
+utilities/.transforms.py.~1b47b4eb
+utilities/.utils.py.~7af3db52
