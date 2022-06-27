@@ -1,0 +1,154 @@
+alabaster @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/alabaster/alabaster-0.7.12
+albumentations==1.1.0
+appdirs @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/appdirs/appdirs-1.4.4
+archspec==0.1.2
+asn1crypto @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/asn1crypto/asn1crypto-1.4.0
+atomicwrites @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/atomicwrites/atomicwrites-1.4.0
+attrs @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/attrs/attrs-20.2.0
+Babel @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/Babel/Babel-2.8.0
+backoff==1.10.0
+bcrypt @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/bcrypt/bcrypt-3.2.0
+bitstring @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/bitstring/bitstring-3.1.7
+blist @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/blist/blist-1.3.6
+CacheControl @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/CacheControl/CacheControl-0.12.6
+cachetools==5.0.0
+cachy @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/cachy/cachy-0.3.0
+certifi @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/certifi/certifi-2020.6.20
+cffi @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/cffi/cffi-1.14.3
+chardet @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/chardet/chardet-3.0.4
+cleo==0.8.1
+click @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/click/click-7.1.2
+clikit==0.6.2
+colorama @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/colorama/colorama-0.4.3
+crashtest==0.3.1
+cryptography @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/cryptography/cryptography-3.1.1
+cycler==0.11.0
+Cython @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/Cython/Cython-0.29.21
+decorator @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/decorator/decorator-4.4.2
+distlib @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/distlib/distlib-0.3.1
+docopt @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/docopt/docopt-0.6.2
+docutils @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/docutils/docutils-0.16
+ecdsa @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/ecdsa/ecdsa-0.16.0
+filelock @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/filelock/filelock-3.0.12
+flit @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/flit/flit-3.0.0
+flit-core @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/flitcore/flit_core-3.0.0
+fonttools==4.29.1
+fsspec @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/fsspec/fsspec-0.8.4
+future @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/future/future-0.18.2
+google-api-core==2.7.1
+google-auth==2.6.2
+googleapis-common-protos==1.56.0
+html5lib @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/html5lib/html5lib-1.1
+idna @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/idna/idna-2.10
+imageio==2.16.0
+imagesize @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/imagesize/imagesize-1.2.0
+importlib-metadata @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/importlib_metadata/importlib_metadata-2.0.0
+iniconfig @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/iniconfig/iniconfig-1.0.1
+intervaltree @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/intervaltree/intervaltree-3.1.0
+intreehooks @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/intreehooks/intreehooks-1.0
+ipaddress @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/ipaddress/ipaddress-1.0.23
+jeepney==0.4.3
+Jinja2 @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/Jinja2/Jinja2-2.11.2
+joblib @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/joblib/joblib-0.17.0
+jsonschema @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/jsonschema/jsonschema-3.2.0
+keyring @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/keyring/keyring-21.4.0
+keyrings.alt @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/keyringsalt/keyrings.alt-4.0.0
+kiwisolver==1.3.2
+labelbox==3.17.0
+liac-arff @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/liacarff/liac-arff-2.5.0
+lockfile @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/lockfile/lockfile-0.12.2
+MarkupSafe @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/MarkupSafe/MarkupSafe-1.1.1
+matplotlib==3.5.1
+mock @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/mock/mock-4.0.2
+more-itertools @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/moreitertools/more-itertools-8.5.0
+msgpack @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/msgpack/msgpack-1.0.0
+ndjson==0.3.1
+netaddr @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/netaddr/netaddr-0.8.0
+netifaces @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/netifaces/netifaces-0.10.9
+networkx==2.6.3
+nose @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/nose/nose-1.3.7
+numpy==1.22.2
+opencv-python==4.5.5.62
+opencv-python-headless==4.5.5.62
+packaging @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/packaging/packaging-20.4
+paramiko @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/paramiko/paramiko-2.7.2
+pastel==0.2.1
+pathlib2 @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/pathlib2/pathlib2-2.3.5
+paycheck @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/paycheck/paycheck-1.0.2
+pbr @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/pbr/pbr-5.5.0
+pexpect @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/pexpect/pexpect-4.8.0
+Pillow==9.0.1
+pkginfo @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/pkginfo/pkginfo-1.5.0.1
+plotly==5.5.0
+pluggy @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/pluggy/pluggy-0.13.1
+poetry @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/poetry/poetry-1.1.3
+poetry-core @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/poetrycore/poetry-core-1.0.0
+protobuf==3.19.4
+psutil @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/psutil/psutil-5.7.2
+ptyprocess==0.6.0
+py @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/py/py-1.9.0
+py-expression-eval @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/py_expression_eval/py_expression_eval-0.3.10
+pyasn1 @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/pyasn1/pyasn1-0.4.8
+pyasn1-modules==0.2.8
+pycocotools==2.0.4
+pycparser @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/pycparser/pycparser-2.20
+pycrypto @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/pycrypto/pycrypto-2.6.1
+pydantic==1.9.0
+Pygments @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/Pygments/Pygments-2.7.1
+pylev @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/pylev/pylev-1.3.0
+PyNaCl @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/PyNaCl/PyNaCl-1.4.0
+pyparsing @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/pyparsing/pyparsing-2.4.7
+pyrsistent @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/pyrsistent/pyrsistent-0.17.3
+pytest @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/pytest/pytest-6.1.1
+python-dateutil @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/pythondateutil/python-dateutil-2.8.1
+pytigre==2.2.0
+pytoml @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/pytoml/pytoml-0.1.21
+pytz @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/pytz/pytz-2020.1
+PyWavelets==1.2.0
+PyYAML==6.0
+qudida==0.0.4
+regex @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/regex/regex-2020.10.11
+requests @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/requests/requests-2.24.0
+requests-toolbelt @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/requeststoolbelt/requests-toolbelt-0.9.1
+rsa==4.8
+scandir @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/scandir/scandir-1.10.0
+scikit-image==0.19.1
+scikit-learn==1.0.2
+scipy==1.8.0
+SecretStorage @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/SecretStorage/SecretStorage-3.1.2
+setuptools-scm @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/setuptools_scm/setuptools_scm-4.1.2
+shellingham @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/shellingham/shellingham-1.3.2
+simplegeneric @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/simplegeneric/simplegeneric-0.8.1
+simplejson @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/simplejson/simplejson-3.17.2
+six @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/six/six-1.15.0
+snowballstemmer @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/snowballstemmer/snowballstemmer-2.0.0
+sortedcontainers @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/sortedcontainers/sortedcontainers-2.2.2
+Sphinx @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/Sphinx/Sphinx-3.2.1
+sphinx-bootstrap-theme @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/sphinxbootstraptheme/sphinx-bootstrap-theme-0.7.1
+sphinxcontrib-applehelp @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/sphinxcontribapplehelp/sphinxcontrib-applehelp-1.0.2
+sphinxcontrib-devhelp @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/sphinxcontribdevhelp/sphinxcontrib-devhelp-1.0.2
+sphinxcontrib-htmlhelp @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/sphinxcontribhtmlhelp/sphinxcontrib-htmlhelp-1.0.3
+sphinxcontrib-jsmath @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/sphinxcontribjsmath/sphinxcontrib-jsmath-1.0.1
+sphinxcontrib-qthelp @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/sphinxcontribqthelp/sphinxcontrib-qthelp-1.0.3
+sphinxcontrib-serializinghtml @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/sphinxcontribserializinghtml/sphinxcontrib-serializinghtml-1.1.4
+sphinxcontrib-websupport @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/sphinxcontribwebsupport/sphinxcontrib-websupport-1.2.4
+tabulate @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/tabulate/tabulate-0.8.7
+tenacity==8.0.1
+threadpoolctl @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/threadpoolctl/threadpoolctl-2.1.0
+tifffile==2022.2.9
+toml @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/toml/toml-0.10.1
+tomlkit==0.7.0
+torch==1.10.2+cu113
+torchaudio==0.10.2+cu113
+torchinfo==1.6.5
+torchsummary==1.5.1
+torchvision==0.11.3+cu113
+tqdm==4.63.1
+typing-extensions==4.1.1
+ujson @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/ujson/ujson-4.0.1
+urllib3 @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/urllib3/urllib3-1.25.10
+virtualenv @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/virtualenv/virtualenv-20.0.34
+wcwidth @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/wcwidth/wcwidth-0.2.5
+webencodings @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/webencodings/webencodings-0.5.1
+xlrd @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/xlrd/xlrd-1.2.0
+zipp @ file:///dev/shm/easybuild-build/Python/3.8.6/GCCcore-10.2.0/zipp/zipp-3.3.0
