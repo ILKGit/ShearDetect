@@ -16,10 +16,12 @@ Install all the python dependencies using pip
 ```
 pip install -r requirements.txt
 ```
-### Test
+
 
 ## Training
-
+```
+python train.py -
+```
 ## Evaluation
 
 ## Detect
