@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 ## Training
 ```
-python train_model.py -
+python train_model.py --model=NAME OF YOUR MODEL --epochs=NUMBER OF EPOCHS --save_period=CHECKPOINTS SAVE PERIOD
 ```
 ## Evaluation
 
