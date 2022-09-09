@@ -21,10 +21,36 @@ Install all the python dependencies using pip
 pip install -r requirements.txt
 ```
 ## Dataset
-A dataset can be find here [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6482460.svg)](https://doi.org/10.5281/zenodo.6482459)
+A dataset can be find here: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6463119.svg)](https://doi.org/10.5281/zenodo.6463119)
 
+Strucutre of a custom Dataset has to be as following:
+```
+|-----train
+       |-----annotations
+              |-----*.json
+       |-----images
+              |-----*.tif
+|-----validation
+       |-----annotations
+              |-----*.json
+       |-----images
+              |-----*.tif
+|-----test
+       |-----annotations
+              |-----*.json
+       |-----images
+              |-----*.tif
 
+*.json-files contain the following annotations and infos
 
+{
+"fileID": "fspecimen_name+image_name",
+"Dataset": "specimen_name",
+"image": "image_name",
+"defect": [[x1, y1, x2, y2],],        #bounding box of defects as list
+"specimen": [[x1, y1, x2, y2],].  #bounding box of specimens as list
+}
+```
 ## Training / Evaluation
 ```
 python train_model.py --model=NAME OF YOUR MODEL --epochs=NUMBER OF EPOCHS --save_period=CHECKPOINTS SAVE PERIOD
