@@ -100,6 +100,30 @@ class ClassDataset(Dataset):
     def __len__(self):
         return len(self.imgs_files)
 ##--------------------------------------
+## Class for Dataset Prediction
+##--------------------------------------
+class ClassDataset_Pred(Dataset):
+    def __init__(self, root, classes):                
+        self.root = root
+        self.imgs_files = sorted(fnmatch.filter(os.listdir(os.path.join(root)),"*.tif"))
+        self.classes = classes
+
+    def __getitem__(self, idx):
+        img_path = os.path.join(self.root, self.imgs_files[idx])
+
+        img = cv2.imread(img_path)
+        img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)        
+        
+        img = F.to_tensor(img)
+        print(img)
+        return img
+    
+    def __len__(self):
+        return len(self.imgs_files)
+
+
+
+##--------------------------------------
 ## function to get smoothed values over iterations
 ##--------------------------------------
 class SmoothedValue:
@@ -338,7 +362,9 @@ def visualize_pred(image, bboxes,scores,labels,CLASSES,out_dir, bboxes_true=None
         image = cv2.putText(image.copy(), text, (bbox[0], bbox[1] - 5),
                     cv2.FONT_HERSHEY_SIMPLEX, 1.5, color_text, 1)
 
-    
+    if not os.path.exists(os.path.join(out_dir,'results')):
+        mkdir(os.path.join(out_dir,'results'))
+
     i=1
     while os.path.exists(os.path.join(out_dir,'results','model_1_%03d.png'%i)):
         i += 1 
