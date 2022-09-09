@@ -20,10 +20,16 @@ Install all the python dependencies using pip
 ```
 pip install -r requirements.txt
 ```
+## Dataset
+A dataset can be find here [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6482460.svg)](https://doi.org/10.5281/zenodo.6482459)
 
 
-## Training
+
+## Training / Evaluation
 ```
 python train_model.py --model=NAME OF YOUR MODEL --epochs=NUMBER OF EPOCHS --save_period=CHECKPOINTS SAVE PERIOD
 ```
-
+## Detection
+```
+python detect_model.py --model=DIR to Model --data=DIR TO DATA --pred=DIR TO SAVE RESULTS
+```
