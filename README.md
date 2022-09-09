@@ -4,7 +4,8 @@
 
 A defekt detection model for shearographic images. This model is based on a object detection model with *faster R-CNN* and *ResNet-50* approach.
 
-![alt text](https://github.com/ILKGit/ShearDetect/blob/main/imgs/model_1x_001.png | width=100)
+<img src="[https://camo.githubusercontent.com/...](https://github.com/ILKGit/ShearDetect/blob/main/imgs/model_1x_001.pn)" data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/ILKGit/ShearDetect/blob/main/imgs/model_1x_001.pn)" width="200" height="400" />
+
 
 ## Getting Started
 ### Clone the Code
