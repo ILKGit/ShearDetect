@@ -4,9 +4,9 @@ __pycache__/
 *$py.class
 
 # Folders to omit
-checkpoints
-dataset
-model
+checkpoints/
+dataset/
+model/
 
 # C extensions
 *.so
